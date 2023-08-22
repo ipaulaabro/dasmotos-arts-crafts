@@ -11,3 +11,16 @@ h1 {
   color: khaki;
   text-align: center;
 }
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+strong {
+  color: blue;
+}
